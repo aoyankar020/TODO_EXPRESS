@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "description": "Milk, Bread, Eggs, Butter",
+    "completed": false,
+    "dueDate": "2025-06-15"
+  },
+  {
+    "id": 2,
+    "title": "Finish homework",
+    "description": "Complete the math assignment and English essay",
+    "completed": true,
+    "dueDate": "2025-06-13"
+  },
+  {
+    "id": 3,
+    "title": "Call Mom",
+    "description": "Check in and ask about her doctor's appointment",
+    "completed": false,
+    "dueDate": "2025-06-14"
+  },
+  {
+    "id": 4,
+    "title": "Clean the house",
+    "description": "Vacuum living room, clean bathroom, wash dishes",
+    "completed": false,
+    "dueDate": "2025-06-17"
+  },
+  {
+    "id": 5,
+    "title": "Pay electricity bill",
+    "description": "Use mobile banking to pay before the due date",
+    "completed": true,
+    "dueDate": "2025-06-12"
+  },
+  {
+    "id": 6,
+    "title": "Buy I Phone",
+    "description": "Price is more than 1 lac",
+    "completed": false,
+    "dueDate": "6/14/2025"
+  },
+  {
+    "id": 7,
+    "title": "Buy Apple Watch",
+    "description": "Price is Huge",
+    "completed": false,
+    "dueDate": "6/14/2025"
+  },
+  {
+    "id": 8,
+    "title": "Buy Laptop",
+    "description": "Price is Huge",
+    "completed": true,
+    "dueDate": "6/14/2025"
+  },
+  {
+    "id": 9,
+    "title": "Buy I Phone",
+    "description": "Price is more than 1 lac",
+    "completed": false,
+    "dueDate": "6/15/2025, 1:00:57 AM"
+  },
+  {
+    "id": 10,
+    "title": "Buy I Phone",
+    "description": "Price is more than 1 lac",
+    "completed": false,
+    "dueDate": "6/15/2025, 1:01:46 AM"
+  },
+  {
+    "id": 11,
+    "title": "Buy I Phone",
+    "description": "Price is more than 1 lac",
+    "completed": false,
+    "dueDate": "6/15/2025, 1:09:41 AM"
+  },
+  {
+    "id": 12,
+    "title": "Buy I Phone",
+    "description": "Price is more than 1 lac",
+    "completed": false,
+    "dueDate": "6/15/2025, 9:28:26 PM"
+  },
+  {
+    "id": 13,
+    "title": "Buy I Phone",
+    "description": "Price is more than 1 lac",
+    "completed": false,
+    "dueDate": "6/15/2025, 9:29:37 PM"
+  }
+]
